@@ -28,7 +28,7 @@ Este projeto é um sorteador de amigos secreto desenvolvido em JavaScript, utili
     git clone https://github.com/Leandro-Rocha81/Sorteador-de-Amigo-Secreto.git
 
 
-2. Abra o arquivo `index.html` no navegador para visualizar o projeto.
+2. Abra o arquivo https://sorteador-de-amigo-secreto-sand.vercel.app no navegador para visualizar o projeto.
 3. Adicione os nomes dos participantes, clique em "Sortear" e veja os resultados.
 4. Use a função "Reiniciar" para começar um novo sorteio.
 
